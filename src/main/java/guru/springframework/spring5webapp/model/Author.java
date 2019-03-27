@@ -79,7 +79,7 @@ public class Author {
 
     @Override
     public String toString() {
-        return "Author{" +
+        return "AuthorController{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
